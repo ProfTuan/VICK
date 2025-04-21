@@ -1,2 +1,4 @@
 # VICK
- vaccine informed consent knowledge base
+vaccine informed consent knowledge base
+
+*work in progress*
